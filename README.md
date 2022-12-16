@@ -1,16 +1,15 @@
 # calculator
 
-A new Flutter project.
+Calculator task app for Unico.
 
-## Getting Started
+## How to install
 
-This project is a starting point for a Flutter application.
+Please run the code in configuration given below :- 
 
-A few resources to get you started if this is your first Flutter project:
+Flutter SDK: 2.10.3
+Dart SDK: 2.16.1
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For Debug mode :- You can simply run the project after installing flutter in system
+For Released mode :- open terminal in project directory and put command "flutter build apk". You can then get the released apk file in build folder of project.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am attaching the release apk file with the project also in github repo.
